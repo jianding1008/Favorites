@@ -1,6 +1,7 @@
-转自 
 ![](http://favorites.ren/img/icon.ico)
 ![](http://favorites.ren/index/img/profile.png)
+
+转自 别处
 
 云收藏 - 让收藏更简单
 =========================
