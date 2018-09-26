@@ -1,3 +1,4 @@
+转自 
 ![](http://favorites.ren/img/icon.ico)
 ![](http://favorites.ren/index/img/profile.png)
 
